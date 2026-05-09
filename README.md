@@ -158,6 +158,6 @@ llm-chatbot-agent/
 
 ## 👤 Author
 
-Built by [Your Name] · [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+Built by [Meet Guna] · [LinkedIn](https://linkedin.com/in/meet-guna-ai) · [GitHub](https://github.com/MeetGuna)
 
 > Built Feb–Mar 2025 as part of an intensive AI Engineering self-study period (Oct 2024–present).
